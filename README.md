@@ -1,2 +1,2 @@
 # SwiftUnitTestingPlayground
-An example playground for Swift Unit Testing
+An example playground that shows off unit testing in Swift using protocols and dependency injection.
